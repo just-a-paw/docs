@@ -1,0 +1,3 @@
+# Paw Bot Documentation
+
+Unlisensed
