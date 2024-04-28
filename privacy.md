@@ -1,58 +1,66 @@
+**Last Updated**:  
+28 Apr. 2024
+
 # Paw Bot Privacy Policy
 
-Paw Bot Limited ("us", "we" or "our") operates Paw Bot (the "Service").  
-
-Computer servers which receive, process and store consumer data ("Servers") are fully operated by, and within the ownership of, Paw Bot Limited.  
-
-## Collected Data
-
-### Users
-
-The Service stores the following data from users:
-
-- Your uniquely identifiable user id.
-- Your username without the discriminator.
-
-Your username and user id may be seen publicly with the Service's leaderboard feature.  
-You can be excluded from this leaderboard by [requesting deletion of your data](#Request-Your-Data).  
-
-### Guilds
-
-The Service stores the following data from guilds:
-
-- The guild's uniquely identifiable id.
-
-## Created Data
-
-### Users
-
-The Services stores the following data formed from collected user data:  
-
-- Experience.
-
-### Guilds
-
-The Services stores the following data formed from collected guild data:  
-
-- Configuration settings.
-
-## Guild Logging Feature
-
-Guilds may opt into a feature which, within opted-in guilds, discloses the contents of messages which were deleted or updated.  
-
-## Protection of Your Data
-
-We adopt modern processing, storage and security practices to ensure your data's safety on our Servers.
-
-## Request Your Data
-
-Data required for feature functionality is kept indefinitely.  
-You can request your data and the deletion of your data by [getting into contact](#Contact) with us.  
+This Privacy Policy describes how Paw Bot Limited ("Paw Bot", "us", "we" or "our") collects and uses your information when you use Paw Bot's services, apps, websites and other products (the "Services").  
 
 ## Third-Party Services
 
-You data is not processed, given to or handled by any third-party service at any point in the Service's life cycle.
+Your data is not processed, given to or handled by any third (3rd) party service at any point in the duration of our Services, except when it is required by law.
+
+## Collected Data
+
+We may collect the following types of information when you interact with our Services.  
+
+### Users
+
+The Services store the following data from users:
+
+* Your unique identifier.
+* Your username.
+
+Your username and identifier may be seen publicly within the Services' leaderboard feature, which is required for functionality of our Services.  
+You may choose to opt-out of this feature by [requesting deletion of your data](#Request-Your-Data).  
+
+### Donors
+
+The Services store the following data from users who are paying or have paid for the Services:
+
+* Your email address, if supplied by a third (3rd) party such as Stripe, to automatically identify your Discord account for any future payment.
+
+### Guilds
+
+The Services stores the following data from Discord guilds:
+
+- The guild's unique identifier.
+
+### Analytics
+
+We may collect anonymised usage data, such as interactions with the Services, for the improvement of the Services.
+This does not include personal or identifiable information such as your user ID or the contents of messages.
+
+## Use of Your Data
+
+We may use anonymised aggregated data for analytical purposes, so we may understand how users interact with our Services and to improve them.
+
+## Data Retention
+
+We retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+## Protection of Your Data
+
+We adopt modern processing, storage and security practices to ensure your data's safety when interacting with our Services, especially from unauthorised access, disclosure, alteration or destruction.
+
+## Request Your Data
+
+You can always opt not to disclose information to us, but this may limit your ability to interact with or use features of the Services.  
+You can request your data and the deletion of your data by [getting into contact](#Contact) with us.  
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time, and any changes will be reflected on this page. We encourage you to review this Privacy Policy periodically for any updates.
 
 ## Contact
 
-You can contact support via email [`support@paw.bot`](mailto:support@paw.bot) or on Discord: <https://discord.gg/tfr>
+You can contact support via email [`support@paw.bot`](mailto:support@paw.bot) or on our Discord community: <https://paw.bot/support>
