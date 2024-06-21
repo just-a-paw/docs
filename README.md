@@ -1,4 +1,4 @@
 # Paw Bot Documentation
 
-* [Terms of Service](./terms)
+* [Terms of Use](./terms)
 * [Privacy Policy](./privacy)
