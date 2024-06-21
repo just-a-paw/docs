@@ -1,3 +1,4 @@
 # Paw Bot Documentation
 
-Unlisensed
+* [Terms of Services](./terms)
+* [Privacy Policy](./privacy)
