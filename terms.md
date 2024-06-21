@@ -1,3 +1,7 @@
+---
+title: Paw Bot Terms of Use
+---
+
 **Last Updated**:  
 28 Apr. 2024
 
