@@ -1,3 +1,7 @@
+---
+title: Paw Bot Privacy Policy
+---
+
 **Last Updated**:  
 28 Apr. 2024
 
