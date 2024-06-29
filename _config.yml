@@ -1,2 +1,2 @@
 title: docs
-permalink: /docs/:categories/:title
+permalink: /:categories/:title
